@@ -109,3 +109,4 @@ el nombre exacto del bucket a crear y si debe ser público o privado.
 - [ ] Actualizar la página estando en una ruta interna (por ejemplo,
       `/oportunidades`) para confirmar que no se rompe (esto prueba la
       configuración de Netlify para aplicaciones de una sola página).
+# CRM
